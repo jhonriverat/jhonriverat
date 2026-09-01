@@ -75,7 +75,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| 🌐 [Work Cleaning & Pressure](https://landing-page-wcp.vercel.app/) — *Activo* | Landing page para empresa de limpieza profesional de campanas de cocina y sistemas de extracción, dirigida a restaurantes y negocios del Sur de la Florida (EE.UU.) | `React` `JavaScript` `Vercel` |
+| 🌐 [Work Cleaning & Pressure](https://www.workcleaningpressure.com/) — *Activo* | Landing page para empresa de limpieza profesional de campanas de cocina y sistemas de extracción, dirigida a restaurantes y negocios del Sur de la Florida (EE.UU.) | `React` `JavaScript` `Vercel` |
 
 ---
 
